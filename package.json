@@ -1,16 +1,27 @@
 {
   "name": "starter-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple starter function. Edit `src/main.js` to get started and create something awesome! 🚀",
   "main": "src/main.js",
   "type": "module",
   "scripts": {
     "format": "prettier --write ."
   },
   "dependencies": {
-    "node-appwrite": "^14.1.0"
+    "node-appwrite": "^14.2.0"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseingazerani-collab/Chatbot-Amoozeshi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husseingazerani-collab/Chatbot-Amoozeshi/issues"
+  },
+  "homepage": "https://github.com/husseingazerani-collab/Chatbot-Amoozeshi#readme"
 }
